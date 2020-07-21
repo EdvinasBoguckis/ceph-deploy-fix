@@ -5,7 +5,7 @@ For users having an error while initial ceph deploy:
 
 ## Reasoning
 
-Method linux_distribution has been removed from python 3.8, this remotes.py uses parse_os_release method for OS identification
+linux_distribution has been removed from python 3.8, this remotes.py uses parse_os_release for OS identification
 
 ## Usage
 
